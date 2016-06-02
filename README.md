@@ -1,3 +1,4 @@
-# Guitar
-![](http://img.blog.csdn.net/20160525221648199)
-![](http://http://img.blog.csdn.net/20160525221458895)
+</br>
+![image](https://raw.githubusercontent.com/wangyan186/Guitar2/master/image/2.png)</br>
+</br>
+![image](https://raw.githubusercontent.com/wangyan186/Guitar2/master/image/1.png)</br>
